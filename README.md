@@ -1,4 +1,10 @@
 # Data Structure and Algorithms using Python
 
-Course - https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
-By - Grow with Google
+**Programming Language** -> [Python](https://www.python.org/)
+
+**Prequisite** :- Complete [Python Course by Kaggle](https://www.kaggle.com/learn/python)
+
+:smiley: We will be pushing codes related to Data Structure and Algorithms.
+
+Reference - [Intro to Data Structure and Algorithms by Grow with Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) </br>
+
