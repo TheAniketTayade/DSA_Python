@@ -1,7 +1,7 @@
 """
 LinkedList
 """
-class Element(object):
+class Element(object): # Node() some prefer this
     def __init__(self, value):
         self.value = value
         self.next = None
