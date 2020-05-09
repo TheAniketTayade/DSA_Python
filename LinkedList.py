@@ -11,6 +11,7 @@ class LinkedList(object):
         self.head = head
         
     def append(self, new_element):
+        """Add new_element in Linked List"""
         current = self.head
         if self.head:
             while current.next:
@@ -71,7 +72,7 @@ class LinkedList(object):
                 self.head = current.next
             
 
-# Test cases
+# TEST CASES
 # Set up some Elements
 e1 = Element(1)
 e2 = Element(2)
