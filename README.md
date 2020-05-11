@@ -6,5 +6,9 @@
 
 :smiley: We will be pushing codes related to Data Structure and Algorithms.
 
-Reference - [Intro to Data Structure and Algorithms by Grow with Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) </br>
+Credit - [Intro to Data Structure and Algorithms by Grow with Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) </br>
 
+
+### Resources
+
+- 
