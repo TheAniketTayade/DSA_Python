@@ -11,4 +11,8 @@ Credit - [Intro to Data Structure and Algorithms by Grow with Google](https://ww
 
 ### Resources
 
-- 
+- [Big-O Complexity Chart](https://www.bigocheatsheet.com/)
+- [Time Complexity (Python)](https://wiki.python.org/moin/TimeComplexity)
+- [Google for Education - Python](https://developers.google.com/edu/python/lists)
+- [Animation - Binary Search](http://www.cs.armstrong.edu/liang/animation/web/BinarySearch.html)
+- [Animation - Searching Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html)
