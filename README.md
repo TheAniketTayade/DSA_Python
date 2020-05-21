@@ -18,4 +18,4 @@ Credit - [Intro to Data Structure and Algorithms by Grow with Google](https://ww
 - [Animation - Searching Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html)
 - [Comic](https://xkcd.com/1185/)
 - [Algorithms TextBook](https://algs4.cs.princeton.edu/22mergesort/)
-- [Visualize DSA] (https://visualgo.net/en)
+- [Visualize DSA](https://visualgo.net/en)
